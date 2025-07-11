@@ -148,7 +148,7 @@ To run and replicate this project:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/Nuswapada/training_model_ai.git](https://github.com/Nuswapada/training_model_ai.git)
+    git clone https://github.com/Nuswapada/training_model_ai.git
     cd training_model_ai
     ```
 2.  **Prepare the Dataset**: Ensure you have the dataset structured as described in the [Dataset](#dataset) section, with `dataset-training-500` and `dataset-valtest` folders in the appropriate location (`/content/drive/MyDrive/dataset-gila/`).
