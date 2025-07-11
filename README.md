@@ -4,19 +4,6 @@
 
 This project aims to develop an image classification model using the MobileNetV2 architecture to identify 7 historical sites on Penyengat Island, Riau Islands Province, Indonesia. The dataset used is a combination of images taken directly at the location and additional data from the internet.
 
-## Table of Contents
-
-1.  [About Penyengat Island](##about-penyengat-island)
-2.  [Dataset](##dataset)
-3.  [Data Preprocessing](##data-preprocessing)
-4.  [Model Architecture](##model-architecture)
-5.  [Model Training](##model-training)
-6.  [Results and Analysis](##results-and-analysis)
-7.  [Important Files](##important-files)
-8.  [How to Use](##how-to-use)
-9.  [Contribution](##contribution)
-10. [License](##license)
-
 ---
 
 ## 1. About Penyengat Island
